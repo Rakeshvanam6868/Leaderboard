@@ -8,7 +8,7 @@ const HeroHeader =()=>{
           <div className="left-bottom line yellow"></div>
         </div>
         <div className="main">
-           <p>Fastest of today</p>
+           <p>Leaderboard</p>
         </div>
         <div className="right-header">
             <div className="right-top line blue"></div>
